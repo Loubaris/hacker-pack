@@ -1,0 +1,1 @@
+curl "https://raw.githubusercontent.com/securethelogs/RedRabbit/master/RedRabbit.ps1" > redrabbit.ps1
